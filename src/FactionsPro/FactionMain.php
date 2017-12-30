@@ -2,19 +2,6 @@
 
 namespace FactionsPro;
 
-/*
- * 
- * v1.3.0 To Do List
- * [X] Separate into Command, Listener, and Main files
- * [X] Implement commands (plot claim, plot del)
- * [X] Get plots to work
- * [X] Add plot to config
- * [X] Add faction description /f desc <faction>
- * [X] Only leaders can edit motd, only members can check
- * [X] More beautiful looking (and working) config
- * 
- * 
- */
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
